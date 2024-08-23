@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Yadav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-yadav77&label=Profile%20views&color=0e75b6&style=flat" alt="manish-yadav77" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack App Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manish-Yadav77](https://github.com/Manish-Yadav77)
 
