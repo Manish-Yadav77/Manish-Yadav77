@@ -48,7 +48,7 @@
 
 ---
 
-# 🧠 LeetCode Stats (Auto-Updated)
+# 🧠 LeetCode Stats 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Manish-Yadav77?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Manish-Yadav77/)
 
