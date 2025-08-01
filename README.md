@@ -46,8 +46,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Manish-Yadav77&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 <!--
+---
 # 🧠 LeetCode Stats 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Manish-Yadav77?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Manish-Yadav77/)
@@ -69,4 +69,3 @@
 - 💻 Primary Language: JavaScript  
 - 🛠️ Also solving in: Java, Python  
 -->
-
