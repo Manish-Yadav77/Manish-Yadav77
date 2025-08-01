@@ -47,7 +47,7 @@
 [![](https://visitcount.itsvg.in/api?id=Manish-Yadav77&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
+<!--
 # 🧠 LeetCode Stats 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Manish-Yadav77?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Manish-Yadav77/)
@@ -56,7 +56,7 @@
 - 🔸 Focus areas: Arrays, Strings, Trees, Recursion, Dynamic Programming  
 - 🎯 Goal: 500+ quality problems across core topics  
 - 🧠 Approach: Brute force → optimized → pattern-based  
-- 📅 Tracking progress through streaks & topic-wise mastery
+- 📅 Tracking progress through streaks & topic-wise mastery -->
 
 <!-- OPTIONAL: Add contest performance if you're active -->
 <!--
