@@ -33,27 +33,8 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manish-Yadav77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manish-Yadav77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Yadav77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 📊 GitHub Testing Stats:
-
-
 [![](https://streak-stats.demolab.com?user=Manish-Yadav77&theme=dark)](https://git.io/streak-stats)
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish-Yadav77&show_icons=true&include_all_commits=true&theme=default)
 
-
-### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manish-Yadav77&theme=default)](https://git.io/streak-stats)
-
-### 📊 GitHub Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish-Yadav77&show_icons=true&include_all_commits=true&theme=default)
-
-### 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Yadav77&layout=compact&theme=default)
-
-# 📊 GitHub Testing Stats:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Yadav77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
