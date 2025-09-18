@@ -37,6 +37,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Manish-Yadav77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Yadav77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Testing Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manish-Yadav77&theme=default)](https://git.io/streak-stats)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Yadav77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
