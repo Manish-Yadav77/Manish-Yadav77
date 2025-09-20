@@ -34,6 +34,7 @@
 
 # 📊 GitHub Stats:
 [![](https://streak-stats.demolab.com?user=Manish-Yadav77&theme=dark)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=Manish-Yadav77&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Yadav77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
